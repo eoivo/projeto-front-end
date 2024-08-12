@@ -1,0 +1,43 @@
+.user-orders-container {
+    display: flex;
+    height: 795px;
+    background-color: #F9F8FE;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    gap: 20px;
+    width: 334px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.orders-heading {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #474747;
+}
+
+.active-order-class {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #C92071;
+}
+
+.profile-divider {
+    width: 100%;
+    border: 1px solid #E0E0E0;
+}
+
+.LinkA-UserOrders {
+    text-decoration: none;
+    color: #474747;
+}

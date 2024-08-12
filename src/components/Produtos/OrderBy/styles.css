@@ -1,0 +1,39 @@
+.order-by {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px; 
+    line-height: 24px; 
+    letter-spacing: 0.5px; 
+    color: #474747;
+    padding: 8px; 
+    border-radius: 4px; 
+    cursor: pointer;
+    transition: background-color 0.3s; 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+.accordion-body {
+    padding: 10px; 
+    background-color: #ffffff; 
+}
+
+.accordion-item:focus-within .accordion-body {
+    background-color: #ffffff; 
+}
+
+.order-option {
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    color: #474747;
+    padding: 5px 0;
+    cursor: pointer; 
+    transition: color 0.3s; 
+}
+
+.order-option:hover {
+    color: #C92071; 
+}

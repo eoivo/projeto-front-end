@@ -1,0 +1,85 @@
+@font-face {
+    font-family: inter;
+    src: url(/src/Inter-SemiBold.ttf);
+}
+
+.header-main {
+    display: flex;
+    justify-content: space-between;
+    height: 160px;
+    border: 1px;
+    width: 100%;
+}
+
+.header-logo-container {
+    display: flex;
+}
+
+.header-logo {
+    height: 34px;
+    width: 33px;
+    margin-top: 47px;
+}
+
+.logo-layout {
+    height: 34px;
+    width: 33px;
+    margin-top: 11px;
+}
+
+.header-h2 {
+    font-family: inter;
+    height: 44px;
+    padding-top: 47px;
+    font-size: 36.4px;
+    justify-content: center;
+    margin-left: 10px;
+    color: #C92071;
+}
+
+.header-h2-layout {
+    font-family: inter;
+    height: 44px;
+    padding-top: 10px;
+    font-size: 36.4px;
+    justify-content: center;
+    margin-left: 10px;
+    color: #C92071;
+}
+
+.header-register {
+    padding-top: 50px;
+    width: 80px;
+    font-size: 16px;
+    height: 28px;
+    color: #474747;
+    font-weight: 500;
+    font-family: inter;
+    line-height: 28px;
+    letter-spacing: 0.75px;
+    text-decoration-line: underline;
+
+}
+
+.header-button {
+    background-color: #C92071;
+    width: 114px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 44px;
+}
+
+.header-login {
+    color: white;
+    font-family: inter;
+    text-decoration: none;
+}
+
+.noRegister {
+    display: none;
+}
+
+.noButton {
+    display: none;
+}

@@ -1,0 +1,165 @@
+.navVisible { 
+    display: none;
+}
+
+.linkHome { 
+    width: 60px;
+    height: 28px;
+    top: 134px;
+    left: 117px;
+    right: 1291px;
+    bottom: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.75px;
+    color: #474747;
+    text-decoration: none;
+}
+
+.linkProducts { 
+    width: 74px;
+    height: 28px;
+    left: 181px;
+    right: 1185px;
+    top: 134px;
+    bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.75px;
+    padding-left: 32px;
+    text-decoration: none;
+    color: #474747;
+}
+
+.linkCategories {
+    width: 89px;
+    height: 28px;
+    left: 287px;
+    right: 1064px;
+    top: 134px;
+    bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.75px;
+    padding-left: 32px;
+    text-decoration: none;
+    color: #474747;
+}
+
+.linkOrders { 
+    width: 155px;
+    height: 28px;
+    left: 408px;
+    right: 917px;
+    top: 140px;
+    bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px 145%;
+    text-align: center;
+    padding-left: 32px;
+    text-decoration: none;
+    color: #474747;
+}
+
+.linkOrders:hover,
+.linkCategories:hover,
+.linkProducts:hover,
+.linkHome:hover { 
+    color: #474747;
+}
+
+.highlightHome { 
+    width: 74px;
+    height: 28px;
+    top: 134px;
+    left: 117px;
+    right: 1291px;
+    bottom: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.75px;
+    color: #C92071;
+    text-decoration: underline;
+}
+
+.highlightProducts { 
+    width: 74px;
+    height: 28px;
+    left: 181px;
+    right: 1185px;
+    top: 134px;
+    bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.75px;
+    padding-left: 32px;
+    color: #C92071;
+    text-decoration: underline;
+}
+
+.highlightCategories { 
+    width: 89px;
+    height: 28px;
+    left: 287px;
+    right: 1064px;
+    top: 134px;
+    bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.75px;
+    padding-left: 32px;
+    color: #C92071;
+    text-decoration: underline;
+}
+
+.highlightOrders { 
+    width: 115px;
+    height: 28px;
+    left: 408px;
+    right: 917px;
+    top: 140px;
+    bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px 145%;
+    text-align: center;
+    padding-left: 32px;
+    color: #C92071;
+    text-decoration: underline;
+}
+
+.highlightHome:hover,
+.highlightCategories:hover,
+.highlightOrders:hover,
+.highlightProducts:hover { 
+    color: #C92071;
+}

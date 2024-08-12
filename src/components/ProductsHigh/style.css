@@ -1,0 +1,108 @@
+.trending-container {
+    margin: 0 71px;
+}
+
+.header-text {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.header-title {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 24px;
+    color: #474747;
+    letter-spacing: 0.75px;
+}
+
+.header-link {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 34px;
+    letter-spacing: 0.75px;
+    color: #C92071;
+    text-decoration: none;
+}
+
+.header-link:hover {
+    color: #C92071;
+}
+
+
+.list-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.additional-list {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 120px;
+}
+
+.product-item {
+    width: 300px;
+    height: 480px;
+    position: relative;
+}
+
+.product-image {
+    width: 292px;
+    height: 321px;
+}
+
+.discount-tag {
+    font-family: 'Inter';
+    position: absolute;
+    top: 35px;
+    left: 10px;
+    width: 106px;
+    height: 35px;
+    text-align: center;
+    background-color: #E7FF86;
+    padding: 10px 15px;
+    border-radius: 29px;
+}
+
+.product-title {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 24px;
+    letter-spacing: 0.75px;
+    color: #8F8F8F;
+    margin-top: 10px;
+}
+
+.product-description {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #474747;
+}
+
+.price-strike {
+    width: 69px;
+    color: #8F8F8F;
+}
+
+.product-price {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #1F1F1F;
+}

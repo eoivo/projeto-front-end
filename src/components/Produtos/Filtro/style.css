@@ -1,0 +1,59 @@
+.filterSidebar {
+    width: 308px;
+    height: 720px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    accent-color: #C92071;
+}
+
+.filterSection {
+    margin: 0 30px;
+}
+
+.sectionTitle {
+    width: 85px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.75px;
+    margin-top: 30px;
+    color: #474747;
+}
+
+.filterSubTitle {
+    width: 46px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.75px;
+    color: #474747;
+    margin-top: 10px;
+}
+
+.filterLabel {
+    width: 107px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    margin-left: 10px;
+    letter-spacing: 0.25px;
+    color: #474747;
+}
+
+.filterCheckbox {
+    background-color: #C92071;
+}
+
+.checkboxContainer {
+    display: flex;
+    flex-direction: column;
+}

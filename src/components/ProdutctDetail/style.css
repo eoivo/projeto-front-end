@@ -1,0 +1,203 @@
+.productDetailWrapper {
+    padding: 20px 0;
+    display: flex;
+    width: 100%;
+}
+
+.productImageContainer {
+    width: 700.73px;
+    margin: 0 30px 0 71px;
+    height: 571px; 
+    position: relative;
+}
+
+.productInfoContainer {
+    width: 500px;
+    height: 571px;
+}
+
+.productImage {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.productTitle {
+    margin-top: 15px;
+    width: 440px;
+    height: 72px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: 1px;
+    color: #1F1F1F;
+}
+
+.productRef {
+    width: 425px;
+    height: 21px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.5px;
+    color: #666666;
+}
+
+.filledStar {
+    color: #F6AA1C;
+}
+
+.emptyStar {
+    color: #F6AA1C;
+}
+
+.productPrice {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: 1px;
+    color: #474747;
+}
+
+.strikethroughPrice {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.75px;
+    text-decoration-line: line-through;
+    color: #CCCCCC;
+}
+
+.productDescriptionTitle {
+    width: 162px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.75px;
+    color: #8F8F8F;
+}
+
+.productDescription {
+    width: 440px;
+    height: 66px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.25px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+
+.productSizeLabel {
+    width: 68px;
+    height: 22px;
+    left: 841px;
+    top: 611px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.75px;
+    color: #8F8F8F;
+}
+
+.sizeButton {
+    margin: 15px 0;
+    width: 48px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px;
+}
+
+.sizeButton:hover {
+    background: #C92071;
+    color: #fff;
+}
+
+.purchaseButton {
+    color: #fff;
+    background: #FFB31F;
+    border-radius: 8px;
+    border: none;
+    width: 200px;
+    height: 48px;
+}
+
+
+.backgroundColor1 {
+    background-color: #E2E3FF; 
+}
+
+.backgroundColor2 {
+    background-color: #FFCDD2;
+}
+
+.backgroundColor3 {
+    background-color: #C8E6C9; 
+}
+
+.carousel-item {
+    position: relative;
+    height: 500px; 
+}
+
+.productColor {
+    width: 68px;
+    height: 22px;
+    left: 841px;
+    top: 611px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.75px;
+    color: #8F8F8F;
+}
+
+.colorButton {
+    margin: 15px 0;
+    width: 48px;
+    height: 48px;
+    background: #E2E3FF;
+    border: 1px solid #E2E3FF;
+    border-radius: 50%;
+}
+
+.colorButton1 {
+    margin: 15px 0;
+    width: 48px;
+    height: 48px;
+    background: #FFCDD2;
+    border: 1px solid #FFCDD2;
+    border-radius: 50%;
+}
+
+.colorButton2 {
+    margin: 15px 0;
+    width: 48px;
+    height: 48px;
+    background: #C8E6C9;
+    border: 1px solid #C8E6C9;
+    border-radius: 50%;
+}

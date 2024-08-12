@@ -1,0 +1,82 @@
+@font-face {
+    font-family: inter;
+    src: url(/src/Inter-SemiBold.ttf);
+}
+
+.main-section {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;    
+    margin-bottom: 123px;
+    margin-top: 50px;
+}
+
+.highlighted-collection-title {
+    font-family: inter;
+    color: #474747;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center; 
+}
+
+.items-container {
+    display: flex;          
+    justify-content: center; 
+    align-items: center;    
+    flex-wrap: nowrap;      
+}
+
+.shirt,
+.pants,
+.hat,
+.headphones,
+.sneakers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #FFFFFF;
+    height: 104px;
+    width: 104px;
+    border-radius: 150px;
+    margin: 0 24px; 
+}
+
+.shirt-section,
+.pants-section,
+.hat-section,
+.headphones-section,
+.sneakers-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 24px;
+}
+
+.shirt-label,
+.pants-label,
+.hat-label,
+.headphones-label,
+.sneakers-label {
+    font-size: 14px;
+    font-family: 'Inter';
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.75px;
+    color: #474747;
+    padding-top: 8px; /* Ajuste o valor conforme necessário */
+    margin-top: 8px;  /* Adiciona um espaço acima do rótulo */
+    text-align: center;
+    /* Adicione padding adicional se necessário para mover os rótulos mais para a direita */
+}
+
+.items-container {
+    display: flex;         
+    justify-content: center; 
+    align-items: center;   
+    flex-wrap: nowrap;     
+}

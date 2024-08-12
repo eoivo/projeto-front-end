@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.login-gradient {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #cc296d;
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    gap: 20px;
+    width: 100%;
+    max-width: 500px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.input-field {
+    width: 100%;
+    border: 1px solid #ccc;
+    height: 60px;
+    border-radius: 8px;
+    background: #F0F0F0;
+    color: #333;
+    padding: 0 15px;
+    transition: background 0.3s, border-color 0.3s;
+    font-size: 16px;
+}
+
+.input-field:focus {
+    border-color: #C92071; 
+    outline: none; 
+}
+
+.input-field:hover {
+    background: #E0E0E0;
+}
+
+.forgot-password {
+    text-decoration: underline;
+    color: #474747;
+    font-size: 14px;
+}
+
+.login-button {
+    height: 48px;
+    width: 100%;
+    background: #C92071;
+    color: #F5F5F5;
+    border-radius: 8px;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0.75px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.login-button:hover {
+    background: #A8175B;
+}
+
+.access-account {
+    font-weight: 700;
+    font-size: 32px;
+    color: #1F1F1F;
+}
+
+.register-login {
+    text-align: center;
+    color: #474747;
+    font-size: 14px;
+}
+
+.social-login-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}

@@ -1,0 +1,122 @@
+.ordersContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 795px;
+    background-color: #F9F8FE;
+    padding: 20px;
+}
+
+.ordersContent {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    max-width: 890px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.ordersHeading {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #474747;
+    margin-bottom: 20px;
+}
+
+.ordersDivider {
+    width: 100%;
+    border: 1px solid #E0E0E0;
+    margin: 20px 0;
+}
+
+.active-order-class {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #C92071;
+}
+
+.orderHistoryContent {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+}
+
+.orderHeader { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.orderStatus { 
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: #474747;
+}
+
+.divider { 
+    width: 100%;
+    border: 1px solid #E0E0E0;
+    margin: 20px 0;
+}
+
+.orderItem { 
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.orderDetailsColumn { 
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    
+}
+
+.shoeImage { 
+    width: 100px;
+    height: auto;
+}
+
+.orderNumber { 
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    color: #160505;
+    margin-bottom: 5px;
+}
+
+.productDescription { 
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #1F1F1F;
+    margin-bottom: 5px;
+}
+
+.productInTransit, 
+.productDelivered { 
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    margin-top: -70px;
+}
+
+.productInTransit { 
+    color: #e20e31;
+}
+
+.productDelivered { 
+    color: #07c430;
+}
+
+.statusIcon {
+    vertical-align: middle;
+    margin-left: 8px;
+}

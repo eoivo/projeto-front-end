@@ -1,0 +1,118 @@
+.cart-header {
+    width: 18.5px;
+    height: 18.1px;
+    margin-top: 55.25px;
+    left: 1309.75px;
+    cursor: pointer;
+}
+
+.notification-badge {
+    position: absolute;
+    height: 17px;
+    width: 17px;
+    border-radius: 50%;
+    background-color: #EE4266;
+    text-align: center;
+    top: 47px;
+    left: 94%;
+    color: white;
+    font-family: inter;
+    font-size: 12px;
+    letter-spacing: 0.5px;
+    line-height: 18px;
+    font-weight: 700;
+    padding-bottom: 1px;
+}
+
+.cart-wrapper {
+    position: relative;
+}
+
+
+.cart-modal {
+    width: 316px;
+    margin-top: 3%;
+    margin-left: 73%;
+}
+
+.modal-title-shoppingCart {
+    width: 125px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    padding-bottom: 5px;
+    letter-spacing: 0.75px;
+    color: #474747;
+}
+
+.modal-header-margin {
+    margin: 0 15px;
+}
+
+.modal-footer-margin {
+    margin: 15px 15px;
+    padding: 0;
+}
+
+.empty-cart {
+    text-align: center;
+    padding: 20px;
+}
+
+.empty-cart p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1F1F1F;
+    margin-top: 10px;
+}
+
+.modal-button-close {
+    background-color: transparent;
+    border: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.25px;
+    text-decoration-line: underline;
+    color: #474747;
+}
+
+.modal-button-continue {
+    background: #C92071;
+    border: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.75px;
+    color: #F5F5F5;
+}
+
+.modal-button-close:hover {
+    background-color: transparent;
+    border: none;
+    color: #474747;
+}
+
+.modal-button-continue:hover {
+    background: #C92071;
+    border: none;
+}
+
+.cart-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.cart-link:hover {
+    color: #fff;
+}

@@ -1,0 +1,13 @@
+.headerWrapper { 
+    width: 100%;
+}
+
+.containerMainHeader { 
+    margin: 0px 71px;
+}
+
+.compactHeaderLayout { 
+    margin: 0px 71px;
+    width: 100%;
+    height: 60px;
+}
