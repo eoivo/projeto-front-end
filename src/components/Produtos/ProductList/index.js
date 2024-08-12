@@ -1,4 +1,4 @@
-import img from '../../../assets/HighProducts/img-tennis-colecao2.png';
+import img from '../../../images/HighProducts/img-tennis-colecao2.png';
 import { Link } from 'react-router-dom';
 import './style.css';
 

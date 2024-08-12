@@ -2,7 +2,7 @@ import { Link, useNavigate, useLocation } from "react-router-dom";
 import { useEffect, useRef } from "react";
 import Input from "./Input";
 import Cart from "./Carrinho";
-import logo from '../../../assets/Header/logo.svg';
+import logo from '../../../images/Header/logo.svg';
 import "./style.css";
 
 export default function Header() {

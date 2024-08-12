@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ProductCarousel from 'react-bootstrap/Carousel';
-import productSneaker from './../../assets/CarrosselProduct/TenisProduto.svg';
+import productSneaker from './../../images/CarrosselProduct/TenisProduto.svg';
 import { Star, StarBorder } from '@mui/icons-material';
 import "./style.css"
 

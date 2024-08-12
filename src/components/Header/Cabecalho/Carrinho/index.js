@@ -1,4 +1,4 @@
-import img from '../../../../assets/Header/cart.svg';
+import img from '../../../../images/Header/cart.svg';
 import { FaShoppingCart } from 'react-icons/fa';
 import './style.css';
 import { useRef, useEffect, useState } from 'react';

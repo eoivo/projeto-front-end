@@ -1,5 +1,5 @@
 import { FaTruck, FaCheckCircle } from 'react-icons/fa'; 
-import shoeImage from "../../assets/Requests/tenisquadrado.svg"; 
+import shoeImage from "../../images/Requests/tenisquadrado.svg"; 
 import "./style.css";
 
 export default function OrderHistory() { 

@@ -2,9 +2,9 @@ import { useNavigate } from 'react-router-dom';
 import Carousel from 'react-bootstrap/Carousel';
 import { useSwipeable } from 'react-swipeable';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import tenis from "../../assets/CarrosselMain/tenis.svg";
-import ball from "../../assets/CarrosselMain/ball.svg";
-import rectangle from "../../assets/CarrosselMain/rectangle.svg";
+import tenis from "../../images/CarrosselMain/tenis.svg";
+import ball from "../../images/CarrosselMain/ball.svg";
+import rectangle from "../../images/CarrosselMain/rectangle.svg";
 
 import './style.css';
 

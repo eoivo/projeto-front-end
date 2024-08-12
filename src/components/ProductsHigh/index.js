@@ -1,6 +1,6 @@
 import './style.css';
 import { ArrowRightAlt } from "@mui/icons-material";
-import shoeImage from '../../assets/HighProducts/img-tennis-colecao2.png';
+import shoeImage from '../../images/HighProducts/img-tennis-colecao2.png';
 import { Link } from 'react-router-dom';
 
 export default function TrendingProducts() {

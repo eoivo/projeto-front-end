@@ -24,7 +24,7 @@
 .list-item-1 {
     width: 32%;
     height: 272px;
-    background-image: url(../../assets/HighlightedCollection/img-blusa.png);
+    background-image: url(../../images/HighlightedCollection/img-blusa.png);
     background-repeat: no-repeat;
     background-size: contain;
     border-radius: 8px;
@@ -33,7 +33,7 @@
 .list-item-2 {
     width: 32%;
     height: 281px;
-    background-image: url(../../assets/HighlightedCollection/img-tenis.png);
+    background-image: url(../../images/HighlightedCollection/img-tenis.png);
     background-repeat: no-repeat;
     background-size: contain;
     border-radius: 8px;
@@ -42,7 +42,7 @@
 .list-item-3 {
     width: 32%;
     height: 281px;
-    background-image: url(../../assets/HighlightedCollection/img-fone.png);
+    background-image: url(../../images/HighlightedCollection/img-fone.png);
     background-repeat: no-repeat;
     background-size: contain;
     border-radius: 8px;

@@ -1,7 +1,7 @@
 import "./style.css";
 import { Link } from 'react-router-dom';
-import elipse from "../../assets/Offers/elipse-tenis.svg";
-import sneaker from "../../assets/Offers/tenis-oferta-especial.svg";
+import elipse from "../../images/Offers/elipse-tenis.svg";
+import sneaker from "../../images/Offers/tenis-oferta-especial.svg";
 
 export default function Offers() {
   return (
