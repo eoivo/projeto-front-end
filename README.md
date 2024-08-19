@@ -1,31 +1,84 @@
-### To intsall all the required dependecies
+# Projeto Front-End
 
-```
-npm install
-```
 
-## Start the project
+## Descrição
 
-```
-npm start
-```
+Breve descrição do projeto, incluindo o que ele faz, qual problema resolve e quem são os usuários-alvo.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Tecnologias
 
-### Test the application
+Lista das principais tecnologias usadas no projeto.
 
-```
-npm test
-```
+- **React**: Biblioteca JavaScript para construir interfaces de usuário.
+- **JavaScript**: Linguagem de programação usada para implementar a lógica do projeto.
+- **CSS**: Linguagem para estilização de páginas web.
+- **HTML**: Linguagem de marcação usada para estruturar o conteúdo.
+- **Bootstrap**: Framework CSS para criar layouts responsivos e modernos.
+- **DOM**: Manipulação do Document Object Model para atualizar a interface do usuário dinamicamente.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Build application
+## Instalação
 
-```
-npm run build
-```
+Passos para configurar e rodar o projeto localmente.
 
-Builds the app for production to the `build` folder.<br>
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/eoivo/projeto-front-end
+   ```
+
+2. **Navegue para o diretório do projeto:**
+
+   ```bash
+   cd projeto-front-end
+   ```
+
+3. **Instale as dependências:**
+
+   ```bash
+   npm install
+   ```
+
+4. **Inicie o servidor de desenvolvimento:**
+
+   ```bash
+   npm start
+   ```
+
+## Contribuição
+
+Se outras pessoas podem contribuir para o projeto, descreva como elas podem fazer isso. Inclua informações sobre como enviar pull requests, relatar problemas ou sugerir melhorias.
+
+1. **Faça um fork do repositório.**
+
+2. **Crie uma branch para sua feature ou correção:**
+
+   ```bash
+   git checkout -b minha-feature
+   ```
+
+3. **Faça suas alterações e comite-as:**
+
+   ```bash
+   git add .
+   git commit -m "Descrição das minhas alterações"
+   ```
+
+4. **Push para a branch:**
+
+   ```bash
+   git push origin minha-feature
+   ```
+
+5. **Abra um pull request no GitHub.**
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Contato
+
+Informações de contato para perguntas ou suporte.
+
+- **Ivo Fernandes** - [ivofernand12@gmail.com]
+- **GitHub** - [https://github.com/eoivo]
