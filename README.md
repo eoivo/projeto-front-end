@@ -47,8 +47,6 @@ Passos para configurar e rodar o projeto localmente.
 
 ## Contribuição
 
-Se outras pessoas podem contribuir para o projeto, descreva como elas podem fazer isso. Inclua informações sobre como enviar pull requests, relatar problemas ou sugerir melhorias.
-
 1. **Faça um fork do repositório.**
 
 2. **Crie uma branch para sua feature ou correção:**
