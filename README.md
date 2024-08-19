@@ -3,7 +3,7 @@
 
 ## Descrição
 
-Breve descrição do projeto, incluindo o que ele faz, qual problema resolve e quem são os usuários-alvo.
+O Digital Store é um projeto de e-commerce desenvolvido para oferecer uma experiência de compra online com uma interface moderna e intuitiva. O objetivo é criar uma página de loja virtual que exiba uma lista de produtos com informações detalhadas e permita aos usuários visualizar categorias e produtos disponíveis
 
 ## Tecnologias
 
