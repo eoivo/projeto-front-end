@@ -1,13 +1,12 @@
-# Projeto Front-End
-
+# Digital Store - Projeto Front-End
 
 ## Descrição
 
-A Digital Store é um projeto de e-commerce desenvolvido para oferecer uma experiência de compra online com uma interface moderna e intuitiva. O objetivo é criar uma página de loja virtual que exiba uma lista de produtos com informações detalhadas e permita aos usuários visualizar categorias e produtos disponíveis
+A **Digital Store** é um projeto de e-commerce desenvolvido para oferecer uma experiência de compra online com uma interface moderna e intuitiva. O objetivo é criar uma página de loja virtual que exiba uma lista de produtos com informações detalhadas e permita aos usuários visualizar categorias e produtos disponíveis.
 
 ## Tecnologias
 
-Lista das principais tecnologias usadas no projeto.
+Lista das principais tecnologias usadas no projeto:
 
 - **React**: Biblioteca JavaScript para construir interfaces de usuário.
 - **JavaScript**: Linguagem de programação usada para implementar a lógica do projeto.
@@ -16,10 +15,15 @@ Lista das principais tecnologias usadas no projeto.
 - **Bootstrap**: Framework CSS para criar layouts responsivos e modernos.
 - **DOM**: Manipulação do Document Object Model para atualizar a interface do usuário dinamicamente.
 
+## Deploy
+
+O projeto está disponível online e pode ser acessado pelo seguinte link:
+
+- [Acesse a Digital Store](https://ivo-digital-store.netlify.app)
 
 ## Instalação
 
-Passos para configurar e rodar o projeto localmente.
+Passos para configurar e rodar o projeto localmente:
 
 1. **Clone o repositório:**
 
@@ -76,7 +80,11 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Contato
 
-Informações de contato para perguntas ou suporte.
+Para perguntas ou suporte, entre em contato:
 
-- **Ivo Fernandes** - [ivofernand12@gmail.com]
-- **GitHub** - [https://github.com/eoivo]
+- **Ivo Fernandes** - [ivofernand12@gmail.com](mailto:ivofernand12@gmail.com)
+- **GitHub** - [https://github.com/eoivo](https://github.com/eoivo)
+
+---
+
+Agora o link do deploy do seu projeto está presente na seção de **Deploy**. Isso permitirá que qualquer pessoa possa acessar facilmente a versão hospedada da sua Digital Store.
