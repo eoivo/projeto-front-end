@@ -74,10 +74,6 @@ Passos para configurar e rodar o projeto localmente:
 
 5. **Abra um pull request no GitHub.**
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
 
 Para perguntas ou suporte, entre em contato:
@@ -85,6 +81,6 @@ Para perguntas ou suporte, entre em contato:
 - **Ivo Fernandes** - [ivofernand12@gmail.com](mailto:ivofernand12@gmail.com)
 - **GitHub** - [https://github.com/eoivo](https://github.com/eoivo)
 
----
+## Licença
 
-Agora o link do deploy do seu projeto está presente na seção de **Deploy**. Isso permitirá que qualquer pessoa possa acessar facilmente a versão hospedada da sua Digital Store.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
