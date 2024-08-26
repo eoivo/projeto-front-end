@@ -5,6 +5,7 @@ body {
 }
 
 .gradient-register {
+    font-family: 'Poppins';
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -15,6 +16,7 @@ body {
 }
 
 .registration-form {
+    font-family: 'Poppins';
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -27,6 +29,7 @@ body {
 }
 
 .input-register {
+    font-family: 'Poppins';
     width: 100%;
     height: 50px;
     padding: 10px;
@@ -37,12 +40,13 @@ body {
 }
 
 .input-register:focus {
+    font-family: 'Poppins';
     border-color: #d41c81;
     outline: none;
 }
 
 .create-account {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 700;
     font-size: 28px;
     line-height: 36px;
@@ -51,6 +55,7 @@ body {
 }
 
 .button-submit {
+    font-family: 'Poppins';
     width: 80px;
     height: 50px;
     background-color: #d41c81;
@@ -64,10 +69,12 @@ body {
 }
 
 .button-submit:hover {
+    font-family: 'Poppins';
     background-color: #7e1a57;
 }
 
 .notification {
+    font-family: 'Poppins';
     margin-left: 50px;
     font-size: 18px;
     display: flex;
@@ -76,11 +83,13 @@ body {
 }
 
 .alert-icon {
+    font-family: 'Poppins';
     margin-right: 5px;
     color: #eb0303;
 }
 
 .success-icon {
+    font-family: 'Poppins';
     margin-right: 5px;
     color: #28a745;
 }

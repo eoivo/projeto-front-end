@@ -5,6 +5,7 @@ body {
 }
 
 .login-gradient {
+    font-family: 'Poppins';
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,6 +17,7 @@ body {
 }
 
 .login-container {
+    font-family: 'Poppins';
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,6 +25,7 @@ body {
 }
 
 .login-form {
+    font-family: 'Poppins';
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -36,6 +39,7 @@ body {
 }
 
 .input-field {
+    font-family: 'Poppins';
     width: 100%;
     border: 1px solid #ccc;
     height: 60px;
@@ -48,21 +52,26 @@ body {
 }
 
 .input-field:focus {
+    font-family: 'Poppins';
     border-color: #C92071; 
     outline: none; 
 }
 
 .input-field:hover {
+    font-family: 'Poppins';
     background: #E0E0E0;
 }
 
 .forgot-password {
+    font-family: 'Poppins';
     text-decoration: underline;
     color: #474747;
     font-size: 14px;
+    cursor: pointer;
 }
 
 .login-button {
+    font-family: 'Poppins';
     height: 48px;
     width: 100%;
     background: #C92071;
@@ -77,24 +86,29 @@ body {
 }
 
 .login-button:hover {
+    font-family: 'Poppins';
     background: #A8175B;
 }
 
 .access-account {
+    font-family: 'Poppins';
     font-weight: 700;
     font-size: 32px;
     color: #1F1F1F;
 }
 
 .register-login {
+    font-family: 'Poppins';
     text-align: center;
     color: #474747;
     font-size: 14px;
 }
 
 .social-login-icons {
+    font-family: 'Poppins';
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 20px;
+    cursor: pointer;
 }
